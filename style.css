@@ -1,0 +1,43 @@
+h1{
+    background-image: url('img/vioolet.jpg');
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+body{
+    background-image: url('img/bubbles.jpg');
+}
+.bloque{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #330b58;
+    color: white;
+}
+.b1{
+    font-family: monospace;
+    background-color: white;
+}
+.b2{
+    font-family: monospace;
+    background-color: white;
+}
+.b3{
+    font-family: monospace;
+    background-color: white;
+}
+.b4{
+    font-family: monospace;
+    background-color: white;
+}
+.b5{
+    font-family: monospace;
+    background-color: white;
+}
+.p1{
+    color: white;
+}
+.p2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.img1{
+    color: rgb(74, 243, 255);
+}
